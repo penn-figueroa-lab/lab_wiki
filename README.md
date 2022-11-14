@@ -4,4 +4,4 @@ This is a wiki page for softwares, hardwares, instructions, suggestions and many
 
 #### :spiral_notepad: Please refer to the [main wiki](https://github.com/penn-figueroa-lab/lab_wiki/wiki)
 
-#### :seedling: Please help us update/maintain this wiki by submitting [pull requests](https://github.com/penn-figueroa-lab/lab_wiki/pulls).
+#### :seedling: Please help us update/maintain this wiki by submitting [issues](https://github.com/penn-figueroa-lab/lab_wiki/issues).
